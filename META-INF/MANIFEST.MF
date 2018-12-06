@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CountStartTime
+Bundle-SymbolicName: com.aotian.practise.eclipse.plugin.countStartTime;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: AOTIAN
+Require-Bundle: org.eclipse.ui
+Automatic-Module-Name: com.aotian.practise.eclipse.plugin.countStartTime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
