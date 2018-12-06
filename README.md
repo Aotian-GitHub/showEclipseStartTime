@@ -1,0 +1,2 @@
+# showEclipseStartTime
+统计Eclipse启动时间，可作为Eclipse插件开发示例
